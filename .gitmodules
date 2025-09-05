@@ -1,0 +1,15 @@
+[submodule "foundations/odin-recipes"]
+	path = foundations/odin-recipes
+	url = https://github.com/amynukalacs50/odin-recipes
+[submodule "foundations/best-repo-ever"]
+	path = foundations/best-repo-ever
+	url = https://github.com/amynukalacs50/best-repo-ever
+[submodule "foundations/git_test"]
+	path = foundations/git_test
+	url = https://github.com/amynukalacs50/git_test
+[submodule "foundations/LandingPage"]
+	path = foundations/LandingPage
+	url = https://github.com/amynukalacs50/LandingPage
+[submodule "javascript/RockPaperScissors"]
+	path = javascript/RockPaperScissors
+	url = https://github.com/amynukalacs50/RockPaperScissors
